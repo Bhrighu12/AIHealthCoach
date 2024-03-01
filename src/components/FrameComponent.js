@@ -67,7 +67,7 @@ const FrameComponent = () => {
               <div className="julia-testimonial">
                 <div className="julia-testimonial-child" />
                 <div className="julia">JULIA</div>
-                <div className="your-ai-powered-health1">
+                <div className="your-ai-powered-health1" id="review">
                   Your AI-Powered Health Coach website offers an impeccable user
                   experience, seamlessly blending sleek design with intuitive
                   navigation. The dashboard's real-time insights and adaptive

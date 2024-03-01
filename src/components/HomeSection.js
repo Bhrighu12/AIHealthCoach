@@ -2,7 +2,7 @@ import "./HomeSection.css";
 
 const HomeSection = () => {
   return (
-    <footer className="home-section">
+    <footer className="home-section" id="cont">
       <div className="a-i-health-coach-header">
         <div className="ai-health-coach1">AI HEALTH COACH</div>
         <div className="b-m-i-frame">
@@ -15,10 +15,10 @@ const HomeSection = () => {
             </div>
             <div className="contact-email-linkedin-container">
               <p className="contact1">Contact</p>
-              <p className="email">Email</p>
-              <p className="linkedin">LinkedIn</p>
-              <p className="instagram">Instagram</p>
-              <p className="twitter">Twitter</p>
+              <p className="email">Email : aihealhtcoach@gmail.com</p>
+              <p className="linkedin">LinkedIn : AIHealthCoach</p>
+              <p className="instagram">Instagram : @ai_healthcoach</p>
+              <p className="twitter">Twitter : @ai_healthcoach</p>
             </div>
           </div>
         </div>

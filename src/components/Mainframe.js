@@ -9,12 +9,12 @@ const Mainframe = () => {
           <div className="contactdietplanframe">
             <div className="aboutframe">
               <div className="signupframe">
-                <div className="about">{`About `}</div>
+                <div className="about"><a href="#about" >Why us?</a></div>
               </div>
-              <div className="heropagecontainer">
-                <div className="bmi">{`BMI `}</div>
+              <div className="sign-up14">
+                <div className="sign-up15"><a href="/bmi">BMI</a></div>
               </div>
-              <div className="contact">contact</div>
+              <div className="contact"><a href="#cont" >Contact</a></div>
               <div className="diet-plan">Diet plan</div>
               <button className="sign-up14">
                 <div className="readytoembracehealthiness">
@@ -59,7 +59,7 @@ const Mainframe = () => {
         <div className="whatyougaintext">
           <div className="object-othercomponent">
             <button className="sign-up16">
-              <div className="sign-up17">Sign up</div>
+              <div className="sign-up17">{`SIGN UP`}</div>
             </button>
             <button className="sign-up18">
               <div className="log-in">{`LOG IN `}</div>

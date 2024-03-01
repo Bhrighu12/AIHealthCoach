@@ -12,7 +12,7 @@ const Desktop = () => {
       <section className="object-other-parent">
         <div className="frame-content-parent">
           <div className="frame-content">
-            <h3 className="are-you-ready">
+            <h3 className="are-you-ready" id="about">
               Are you ready to embark on a journey to a healthier, fitter you?
               Look no further! Our cutting-edge AI-powered health coach is here
               to revolutionize your wellness experience. Say goodbye to generic
