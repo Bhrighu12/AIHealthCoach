@@ -1,11 +1,33 @@
+import React, { useEffect } from 'react';
 import "./Mainframe.css";
 
 const Mainframe = () => {
+  useEffect(() => {
+    // Create the script element for chatbot
+    const script = document.createElement('script');
+    script.src = 'https://www.chatbase.co/embed.min.js';
+    script.defer = true;
+
+    // Set the config as a global variable
+    window.embeddedChatbotConfig = {
+      chatbotId: "EHax4a-WpWRgxhv9_0zsX",
+      domain: "www.chatbase.co"
+    };
+
+    // Append the script to the document body
+    document.body.appendChild(script);
+
+    // Clean up function to remove the script when the component unmounts
+    return () => {
+      document.body.removeChild(script);
+    };
+  }, []); // Empty dependency array ensures this effect runs only once
+
   return (
     <section className="mainframe">
       <header className="mainframe-inner">
         <div className="ai-health-coach-parent">
-          <h1 className="ai-health-coach">AI Health Coach</h1>
+          <img src="logo@2x.png" height={100} width={500}></img>
           <div className="contactdietplanframe">
             <div className="aboutframe">
               <div className="signupframe">
