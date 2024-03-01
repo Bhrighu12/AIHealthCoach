@@ -1,0 +1,401 @@
+.what-you-gain1 {
+  margin: 0;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+}
+.feeling-better-mentally1 {
+  letter-spacing: 0.1em;
+}
+.feeling-better-mentally-regu3 {
+  margin-bottom: 0;
+}
+.saving-money1 {
+  letter-spacing: 0.1em;
+}
+.saving-money-eating-junk-foo1 {
+  margin-bottom: 0;
+}
+.fewer-health-problems1 {
+  letter-spacing: 0.1em;
+}
+.fewer-health-problems-living1 {
+  margin-bottom: 0;
+}
+.taking-control-of1 {
+  letter-spacing: 0.1em;
+}
+.feeling-better-mentally-regu2 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  padding-left: var(--padding-13xl);
+}
+.what-you-gain-container1 {
+  width: 795px;
+  height: 315px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.benefits-list,
+.benefits-list-parent,
+.mask-group-parent-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.benefits-list {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  min-width: 517px;
+}
+.benefits-list-parent,
+.mask-group-parent-inner {
+  flex-direction: row;
+}
+.benefits-list-parent {
+  flex: 1;
+  row-gap: 20px;
+}
+.mask-group-parent-inner {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-20xl);
+  box-sizing: border-box;
+}
+.testimonials-child {
+  width: 1142px;
+  height: 753px;
+  position: relative;
+  border-radius: var(--br-81xl);
+  background: linear-gradient(113.12deg, #dd4545, #c24747 50.18%, #737373);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.testimonials1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.have-to-say,
+.read-what-others {
+  margin: 0;
+}
+.read-what-others-have-container {
+  height: 77.4px;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  z-index: 1;
+}
+.log-in-c-t-a,
+.sign-up-section {
+  display: flex;
+  justify-content: flex-start;
+}
+.log-in-c-t-a {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-5xl) 0 var(--padding-2xl);
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-snow);
+}
+.sign-up-section {
+  flex-direction: column;
+  align-items: center;
+  gap: 25px 0;
+}
+.testimonial-frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-9xs);
+}
+.mask-group-icon,
+.mask-group-icon1,
+.mask-group-icon2 {
+  width: 124px;
+  height: 121px;
+  position: absolute;
+  margin: 0 !important;
+  z-index: 2;
+}
+.mask-group-icon {
+  top: 199px;
+  left: 148px;
+  object-fit: cover;
+}
+.mask-group-icon1,
+.mask-group-icon2 {
+  top: 204px;
+  object-fit: contain;
+}
+.mask-group-icon1 {
+  left: 505px;
+}
+.mask-group-icon2 {
+  right: 154px;
+}
+.julia-testimonial-child {
+  width: 346px;
+  height: 433px;
+  position: relative;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-cornflowerblue-100);
+  display: none;
+  max-width: 100%;
+}
+.julia {
+  position: relative;
+  line-height: 27.5px;
+  z-index: 2;
+}
+.your-ai-powered-health1 {
+  width: 319px;
+  height: 256px;
+  position: relative;
+  font-size: var(--font-size-lgi);
+  letter-spacing: 0.06em;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-diet-plan-contact,
+.julia-testimonial {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.julia-testimonial {
+  align-self: stretch;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-cornflowerblue-100);
+  align-items: center;
+  padding: var(--padding-39xl) var(--padding-sm) var(--padding-72xl)
+    var(--padding-smi);
+  z-index: 1;
+}
+.frame-diet-plan-contact {
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-8xs);
+  min-width: 225px;
+}
+.r-a-j-frame-child {
+  width: 346px;
+  height: 433px;
+  position: relative;
+  border-radius: var(--br-13xl);
+  background-color: var(--color-cornflowerblue-100);
+  display: none;
+  max-width: 100%;
+}
+.raj {
+  position: relative;
+  line-height: 27.5px;
+  z-index: 2;
+}
+.your-ai-powered-health2 {
+  width: 319px;
+  height: 256px;
+  position: relative;
+  font-size: var(--font-size-lgi);
+  letter-spacing: 0.06em;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.r-a-j-frame,
+.r-a-j-frame-item {
+  border-radius: var(--br-13xl);
+  background-color: var(--color-cornflowerblue-100);
+  max-width: 100%;
+}
+.r-a-j-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-39xl) var(--padding-sm) var(--padding-72xl)
+    var(--padding-smi);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.r-a-j-frame-item {
+  width: 346px;
+  height: 433px;
+  position: relative;
+  display: none;
+}
+.puja {
+  position: relative;
+  line-height: 27.5px;
+  z-index: 2;
+}
+.puja-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) 0 0;
+}
+.your-ai-powered-health3 {
+  width: 319px;
+  height: 256px;
+  position: relative;
+  font-size: var(--font-size-lgi);
+  letter-spacing: 0.06em;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.r-a-j-frame1 {
+  border-radius: var(--br-13xl);
+  background-color: var(--color-cornflowerblue-100);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-39xl) var(--padding-sm) var(--padding-72xl)
+    var(--padding-smi);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.r-a-j-frame1,
+.raj-p-u-j-a-section,
+.testimonials {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.raj-p-u-j-a-section {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0 12px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.testimonials {
+  width: 1142px;
+  border-radius: var(--br-81xl);
+  background: linear-gradient(113.12deg, #dd4545, #c24747 50.18%, #737373);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-22xl) var(--padding-24xl) var(--padding-23xl)
+    var(--padding-18xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-79xl);
+  text-align: left;
+  font-size: var(--font-size-19xl);
+}
+.mask-group-parent,
+.mask-group-parent-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.mask-group-parent {
+  width: 1238px;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-shrink: 0;
+}
+.mask-group-parent-wrapper {
+  width: 1374px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl) var(--padding-49xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
+@media screen and (max-width: 1225px) {
+  .testimonials {
+    gap: var(--gap-79xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .mask-group-parent-wrapper {
+    padding-bottom: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .benefits-list-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .benefits-list {
+    min-width: 100%;
+  }
+  .testimonials1 {
+    font-size: var(--font-size-11xl);
+    line-height: 22px;
+  }
+  .testimonials {
+    gap: var(--gap-79xl);
+    padding-top: var(--padding-8xl);
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .mask-group-parent-wrapper {
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .what-you-gain-container1 {
+    font-size: var(--font-size-lgi);
+  }
+  .testimonials1 {
+    font-size: var(--font-size-4xl);
+    line-height: 16px;
+  }
+  .read-what-others-have-container {
+    font-size: var(--font-size-2xl);
+  }
+  .julia {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+  .julia-testimonial {
+    padding-top: var(--padding-19xl);
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+  .raj {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+  .r-a-j-frame {
+    padding-top: var(--padding-19xl);
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+  .puja {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+  .r-a-j-frame1 {
+    padding-top: var(--padding-19xl);
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+}

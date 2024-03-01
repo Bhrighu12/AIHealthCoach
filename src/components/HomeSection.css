@@ -1,0 +1,85 @@
+.ai-health-coach1 {
+  width: 260px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+}
+.about1,
+.bmi1,
+.diet-plan1,
+.home2 {
+  margin: 0;
+}
+.home-about-bmi-container {
+  height: 145px;
+  width: 94px;
+  position: relative;
+  line-height: 31px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.contact1,
+.email,
+.instagram,
+.linkedin,
+.twitter {
+  margin: 0;
+}
+.contact-email-linkedin-container {
+  height: 145px;
+  width: 120px;
+  position: relative;
+  line-height: 31px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.b-m-i-frame,
+.diet-plan-section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.diet-plan-section {
+  width: 513px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.b-m-i-frame {
+  align-self: stretch;
+  justify-content: flex-end;
+  margin-top: -5px;
+  font-size: var(--font-size-xl);
+}
+.a-i-health-coach-header,
+.home-section {
+  width: 828px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.home-section {
+  width: 986px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
+@media screen and (max-width: 450px) {
+  .ai-health-coach1 {
+    font-size: var(--font-size-2xl);
+  }
+  .contact-email-linkedin-container,
+  .home-about-bmi-container {
+    font-size: var(--font-size-base);
+    line-height: 25px;
+  }
+  .diet-plan-section {
+    flex-wrap: wrap;
+  }
+}

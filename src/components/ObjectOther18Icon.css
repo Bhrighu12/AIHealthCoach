@@ -1,0 +1,12 @@
+.objectother-18-icon {
+  height: 404px;
+  width: 404px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+@media screen and (max-width: 1050px) {
+  .objectother-18-icon {
+    flex: 1;
+  }
+}

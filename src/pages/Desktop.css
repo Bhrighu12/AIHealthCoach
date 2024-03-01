@@ -1,0 +1,172 @@
+.are-you-ready {
+  margin: 0;
+  width: 795px;
+  height: 208px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frame-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 34px 0 0;
+  box-sizing: border-box;
+  min-width: 795px;
+  max-width: 100%;
+}
+.wrapper-objectother-07 {
+  height: 404px;
+  width: 404px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-content-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  row-gap: 20px;
+  max-width: 100%;
+}
+.object-other-parent,
+.objectother-17-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.object-other-parent {
+  width: 1374px;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  text-align: center;
+  font-size: 28px;
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
+.objectother-17-wrapper {
+  height: 430px;
+  width: 404px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-7xl) 0 0;
+  min-width: 404px;
+}
+.why-choose-our {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+  font-weight: 600;
+}
+.personalization-at-its-best,
+.real-time-progress-tracking,
+.smart-dietary-recommendations,
+.tailored-workout-plans {
+  margin-bottom: 20px;
+}
+.personalization-at-its-best-ta {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  padding-left: var(--padding-13xl);
+}
+.why-choose-our-container {
+  height: 390px;
+  width: 745px;
+  position: relative;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 745px;
+  max-width: 100%;
+}
+.frame-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0 90px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.desktop-1,
+.why-choose-us {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.why-choose-us {
+  width: 1372px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) 25px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-15xl);
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-2xl) 0 67px;
+  gap: 73px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .frame-content {
+    flex: 1;
+  }
+  .frame-content-parent {
+    flex-wrap: wrap;
+  }
+  .objectother-17-wrapper,
+  .why-choose-our-container {
+    flex: 1;
+  }
+  .frame-group {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frame-content,
+  .why-choose-our-container {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 750px) {
+  .objectother-17-wrapper {
+    min-width: 100%;
+  }
+  .frame-group {
+    gap: 0 90px;
+  }
+  .desktop-1 {
+    gap: 73px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .are-you-ready {
+    font-size: 22px;
+  }
+  .why-choose-our-container {
+    font-size: var(--font-size-lgi);
+  }
+  .frame-group {
+    gap: 0 90px;
+  }
+  .desktop-1 {
+    gap: 73px 0;
+  }
+}

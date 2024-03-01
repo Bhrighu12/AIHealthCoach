@@ -1,0 +1,15 @@
+.objectother-07-icon {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 10px;
+  top: 0;
+  transform: scale(1.049);
+}
+@media screen and (max-width: 1225px) {
+  .objectother-07-icon {
+    flex: 1;
+  }
+}

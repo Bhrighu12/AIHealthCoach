@@ -1,0 +1,319 @@
+.about,
+.ai-health-coach {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.ai-health-coach {
+  margin: 0;
+  height: 37px;
+  width: 392px;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: inherit;
+  max-width: 100%;
+}
+.about {
+  height: 39px;
+  line-height: 27.5px;
+}
+.signupframe {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.bmi {
+  align-self: stretch;
+  height: 34.6px;
+  position: relative;
+  line-height: 27.5px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.heropagecontainer {
+  width: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.contact,
+.diet-plan,
+.sign-up15 {
+  position: relative;
+  text-transform: capitalize;
+  font-family: var(--font-outfit);
+}
+.contact {
+  height: 31.8px;
+  line-height: 27.5px;
+  display: inline-block;
+}
+.diet-plan,
+.sign-up15 {
+  white-space: nowrap;
+}
+.diet-plan {
+  line-height: 27.5px;
+}
+.sign-up15 {
+  margin-top: -1px;
+  margin-bottom: -2px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.06em;
+  color: var(--color-white);
+  text-align: left;
+}
+.readytoembracehealthiness {
+  height: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sign-up14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0 var(--padding-12xs) 0 var(--padding-8xs);
+  background-color: transparent;
+  border-radius: var(--br-81xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.aboutframe,
+.contactdietplanframe {
+  display: flex;
+  align-items: flex-start;
+}
+.aboutframe {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-11xs) 0 0;
+  gap: var(--gap-xl);
+}
+.contactdietplanframe {
+  width: 496px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+}
+.ai-health-coach-parent,
+.mainframe-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.ai-health-coach-parent {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.mainframe-inner {
+  width: 1148px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.pexels-tima-miroshnichenko-837-icon {
+  width: 1440px;
+  height: 904px;
+  position: relative;
+  border-radius: var(--br-6xl);
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.welcome-to-your {
+  text-transform: capitalize;
+}
+.b,
+.welcome-to-your-ai-health-coac1 {
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-outfit);
+  white-space: pre-wrap;
+}
+.span1,
+.span2 {
+  white-space: pre-wrap;
+}
+.span {
+  text-transform: uppercase;
+}
+.welcome-to-your-ai-health-coac {
+  margin: 0;
+}
+.unlock-your-full-potential-wit2 {
+  white-space: pre-wrap;
+}
+.unlock-your-full-potential-wit1 {
+  text-transform: uppercase;
+}
+.unlock-your-full-potential-wit {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.welcome-to-your-container {
+  width: 1238px;
+  height: 110px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.sign-up17 {
+  height: 25px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.sign-up16 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-lgi) var(--padding-2xl);
+  background-color: var(--color-cornflowerblue-200);
+  flex: 1;
+  border-radius: var(--br-111xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 148px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.sign-up16:hover,
+.sign-up18:hover {
+  background-color: var(--color-cornflowerblue-300);
+}
+.log-in {
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.19em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-outfit);
+  color: var(--color-white);
+  text-align: left;
+}
+.sign-up18 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xl) var(--padding-xl) var(--padding-2xl);
+  background-color: var(--color-cornflowerblue-200);
+  flex: 1;
+  border-radius: var(--br-111xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 148px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.object-othercomponent {
+  width: 497px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0 43px;
+}
+.hero-page,
+.mainframe,
+.object-othercomponent,
+.whatyougaintext {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.whatyougaintext {
+  width: 1008px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.hero-page,
+.mainframe {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.hero-page {
+  border-radius: var(--br-6xl);
+  padding: var(--padding-426xl) var(--padding-xl) var(--padding-145xl);
+  gap: var(--gap-100xl);
+  background-image: url(/public/pexelstimamiroshnichenko8376171-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  margin-top: -3px;
+}
+.mainframe {
+  padding: 0 0 var(--padding-7xl);
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-outfit);
+}
+@media screen and (max-width: 1050px) {
+  .aboutframe {
+    display: none;
+  }
+  .contactdietplanframe {
+    width: 0;
+  }
+  .hero-page {
+    padding-bottom: var(--padding-88xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .object-othercomponent {
+    gap: 0 43px;
+  }
+  .hero-page {
+    gap: var(--gap-100xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .welcome-to-your-container {
+    font-size: var(--font-size-lgi);
+  }
+  .hero-page {
+    gap: var(--gap-100xl);
+    padding-bottom: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+}
