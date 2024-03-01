@@ -11,6 +11,7 @@ app.use(express.urlencoded({extended:false}));
 
 app.set("view engine","ejs")
 app.set('views', path.join(__dirname, '../views'));
+app.use(express.static(path.join(__dirname,'..public')));
 
 
 app.get("/",(req,res)=>{
@@ -34,8 +35,8 @@ app.post("/signup",async(req,res)=>{
         res.send("User already exists .please choose a different username");
     }
     else{
-
-        //hash the password
+        res.render("login")
+           //hash the password
         const saltRounds = 10;
         const hasedPassword = await bcrypt.hash(data.password,saltRounds);
 
@@ -57,7 +58,7 @@ app.post("/login",async(req,res)=>{
         }
         const isPassword = await bcrypt.compare(req.body.password,check.password);
         if(isPassword){
-            res.render("home");
+            res.redirect('http://localhost:3000');
         }
         else{
             req.send("Wrong password");

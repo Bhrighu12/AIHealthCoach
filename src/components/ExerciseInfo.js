@@ -8,17 +8,17 @@ const ExerciseInfo = () => {
         <div className="about-frame">
           <div className="sign-up26">
             <div className="signup-frame1">
-              <div className="about3">About</div>
+              <div className="about3"><a href="/">Home</a></div>
             </div>
           </div>
           <div className="sign-up27">
             <div className="bmi-container">
-              <div className="bmi3">BMI</div>
+              <div className="bmi3"><a href="/bmi">BMI</a></div>
             </div>
           </div>
           <div className="signup-frames1">
             <div className="sign-up28">
-              <div className="diet-plan2">Diet Plan</div>
+              <div className="diet-plan2"><a href="/diet">Diets</a></div>
             </div>
           </div>
           <div className="signup-frames2">
@@ -27,13 +27,6 @@ const ExerciseInfo = () => {
                 <div className="contact3">Contact</div>
               </div>
             </div>
-          </div>
-          <div className="signup-frames3">
-            <button className="sign-up30">
-              <div className="sign-up-container">
-                <div className="sign-up31">Sign up</div>
-              </div>
-            </button>
           </div>
         </div>
       </div>

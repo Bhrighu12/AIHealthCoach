@@ -76,6 +76,7 @@ const Bmi =()=>{
     
           </div>
           <h2> {message} {bmi} </h2>
+          <h3><a href="/">Home</a></h3>
         </div>
       )
     };
