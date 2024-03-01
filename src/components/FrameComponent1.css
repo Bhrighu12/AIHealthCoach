@@ -1,0 +1,150 @@
+.image-5-icon,
+.image-6-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 378px;
+  min-height: 431px;
+}
+.image-6-icon {
+  min-width: 375px;
+}
+.child-teenager-food-images-a {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 49px;
+  max-width: 100%;
+}
+.image-7-icon,
+.image-8-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 378px;
+  min-height: 420px;
+}
+.image-8-icon {
+  min-width: 375px;
+}
+.child-teenager-food-images-a1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 49px;
+  max-width: 100%;
+}
+.image-10-icon,
+.image-9-icon {
+  height: 422px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 378px;
+}
+.image-10-icon {
+  height: 428px;
+  min-width: 375px;
+}
+.food-images-for-general-diet-p {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 49px;
+  max-width: 100%;
+}
+.image-11-icon,
+.image-12-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 378px;
+  min-height: 433px;
+}
+.image-12-icon {
+  min-width: 375px;
+}
+.food-images-for-general-diet-p1,
+.recommended-diets-for-children {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.food-images-for-general-diet-p1 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0 49px;
+}
+.recommended-diets-for-children {
+  flex-direction: column;
+  gap: 30px 0;
+}
+.recommended-diet-images,
+.recommended-diet-images-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.recommended-diet-images {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 0 0 var(--padding-12xs);
+  gap: 36px 0;
+}
+.recommended-diet-images-wrapper {
+  width: 1208px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-17xl);
+}
+@media screen and (max-width: 675px) {
+  .child-teenager-food-images-a,
+  .child-teenager-food-images-a1,
+  .food-images-for-general-diet-p,
+  .food-images-for-general-diet-p1 {
+    gap: 0 49px;
+  }
+  .recommended-diet-images {
+    gap: 36px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .image-10-icon,
+  .image-11-icon,
+  .image-12-icon,
+  .image-5-icon,
+  .image-6-icon,
+  .image-7-icon,
+  .image-8-icon,
+  .image-9-icon {
+    min-width: 100%;
+  }
+}

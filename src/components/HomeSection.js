@@ -8,10 +8,11 @@ const HomeSection = () => {
         <div className="b-m-i-frame">
           <div className="diet-plan-section">
             <div className="home-about-bmi-container">
-              <p className="home2">Home</p>
-              <p className="about1">About</p>
-              <p className="bmi1">BMI</p>
-              <p className="diet-plan1">Diet Plan</p>
+              <p className="home2"><a href="/">Home</a></p>
+              <p className="about1"><a href="#about">About</a></p>
+              <p className="bmi1"><a href="/bmi">BMI</a></p>
+              <p className="diet-plan1"><a href="/diet">Diets</a></p>
+              <p className="bmi1"><a href="/bmi">Exercises</a></p>
             </div>
             <div className="contact-email-linkedin-container">
               <p className="contact1">Contact</p>

@@ -7,6 +7,7 @@ import {
 } from "react-router-dom";
 import Desktop from "./pages/Desktop";
 import Bmi from "./pages/Bmi";
+import DietPage from "./pages/DietPage";
 
 function App() {
   const action = useNavigationType();
@@ -47,8 +48,8 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<Desktop />} />
-      {/* <Route path="/diet" element={<Diets />} />
-      <Route path="/exercise" element={<Excercise />} /> */}
+      <Route path="/diet" element={<DietPage/>} />
+      {/* <Route path="/exercise" element={<Excercise />} /> */}
       <Route path="/bmi" element={<Bmi />} />
       
     </Routes>

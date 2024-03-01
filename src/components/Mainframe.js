@@ -10,7 +10,7 @@ const Mainframe = () => {
 
     // Set the config as a global variable
     window.embeddedChatbotConfig = {
-      chatbotId: "EHax4a-WpWRgxhv9_0zsX",
+      chatbotId: "leLjrawp57RtEYl-aUIpZ",
       domain: "www.chatbase.co"
     };
 
@@ -37,10 +37,10 @@ const Mainframe = () => {
                 <div className="sign-up15"><a href="/bmi">BMI</a></div>
               </div>
               <div className="contact"><a href="#cont" >Contact</a></div>
-              <div className="diet-plan">Diet plan</div>
+              <div className="diet-plan"><a href="/diet" >Diet Plan</a></div>
               <button className="sign-up14">
                 <div className="readytoembracehealthiness">
-                  <div className="sign-up15">Sign up</div>
+                  <div className="sign-up15"><a href='http://localhost:5001'>Login</a></div>
                 </div>
               </button>
             </div>
@@ -80,12 +80,12 @@ const Mainframe = () => {
         </div>
         <div className="whatyougaintext">
           <div className="object-othercomponent">
-            <button className="sign-up16">
-              <div className="sign-up17">{`SIGN UP`}</div>
-            </button>
-            <button className="sign-up18">
-              <div className="log-in">{`LOG IN `}</div>
-            </button>
+            <a href="http://localhost:5001/signup"><button className="sign-up18">
+              <div className="log-in">{`GET STARTED`}</div>
+            </button></a>
+            <a href="/"><button className="sign-up18">
+              <div className="log-in">{`EXCERCISES`}</div>
+            </button></a>
           </div>
         </div>
       </div>

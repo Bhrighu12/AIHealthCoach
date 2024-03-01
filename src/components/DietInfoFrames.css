@@ -1,0 +1,259 @@
+.what-is-a {
+  margin: 0;
+  font-size: var(--headline-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line {
+  margin: 0;
+}
+.what-precisely-is {
+  letter-spacing: 0.02em;
+}
+.what-precisely-is-a-balanced-d {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.blank-line1 {
+  margin: 0;
+}
+.importance-of-a {
+  margin: 0;
+  font-size: var(--headline-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.there-is-no {
+  letter-spacing: 0.02em;
+}
+.there-is-no-doubt-about-the-im {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.blank-line2 {
+  margin: 0;
+}
+.what-are-the {
+  margin: 0;
+  font-size: var(--headline-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line4 {
+  font-size: var(--font-size-xl);
+}
+.blank-line3 {
+  margin: 0;
+}
+.blank-line6 {
+  font-size: var(--font-size-xl);
+}
+.blank-line5 {
+  margin: 0;
+}
+.blank-line8 {
+  font-size: var(--font-size-xl);
+}
+.blank-line7 {
+  margin: 0;
+}
+.blank-line10 {
+  font-size: var(--font-size-xl);
+}
+.blank-line9 {
+  margin: 0;
+}
+.blank-line12 {
+  font-size: var(--font-size-xl);
+}
+.blank-line11 {
+  margin: 0;
+}
+.blank-line14 {
+  font-size: var(--font-size-xl);
+}
+.blank-line13 {
+  margin: 0;
+}
+.blank-line16 {
+  font-size: var(--font-size-xl);
+}
+.blank-line15 {
+  margin: 0;
+}
+.blank-line18 {
+  font-size: var(--font-size-xl);
+}
+.blank-line17 {
+  margin: 0;
+}
+.blank-line20 {
+  font-size: var(--font-size-xl);
+}
+.blank-line19 {
+  margin: 0;
+}
+.blank-line22 {
+  font-size: var(--font-size-xl);
+}
+.blank-line21 {
+  margin: 0;
+}
+.blank-line24 {
+  font-size: var(--font-size-xl);
+}
+.blank-line23 {
+  margin: 0;
+}
+.blank-line26 {
+  font-size: var(--font-size-xl);
+}
+.blank-line25 {
+  margin: 0;
+}
+.blank-line28 {
+  font-size: var(--font-size-xl);
+}
+.blank-line27 {
+  margin: 0;
+}
+.blank-line30 {
+  font-size: var(--font-size-xl);
+}
+.blank-line29 {
+  margin: 0;
+}
+.blank-line32 {
+  font-size: var(--font-size-xl);
+}
+.blank-line31 {
+  margin: 0;
+}
+.blank-line34 {
+  font-size: var(--font-size-6xl);
+}
+.blank-line33 {
+  margin: 0;
+}
+.a-balanced-diet,
+.healthy-food-groups1 {
+  letter-spacing: 0.02em;
+}
+.healthy-food-groups {
+  color: inherit;
+}
+.normally-a-balanced {
+  letter-spacing: 0.02em;
+}
+.a-balanced-diet-incorporates-s {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.vegetables-like-leafy {
+  letter-spacing: 0.02em;
+}
+.vegetables-like-leafy-greens1 {
+  margin-bottom: 0;
+}
+.whole-grains-such {
+  letter-spacing: 0.02em;
+}
+.whole-grains-such-as-quinoa-b {
+  margin-bottom: 0;
+}
+.protein-like-fish {
+  letter-spacing: 0.02em;
+}
+.protein-like-fish-chicken-le {
+  margin-bottom: 0;
+}
+.dairy-products-like {
+  letter-spacing: 0.02em;
+}
+.dairy-products-like-low-fat-mi {
+  margin-bottom: 0;
+}
+.vegetables-like-leafy-greens {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+  padding-left: var(--padding-13xl);
+}
+.a-broad-range {
+  letter-spacing: 0.02em;
+}
+.a-broad-range-of-food-choices,
+.blank-line35 {
+  margin: 0;
+}
+.what-is-a-container {
+  width: 1259px;
+  height: 1239px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.image-4-icon {
+  position: absolute;
+  top: 402px;
+  left: calc(50% - 269.5px);
+  border-radius: var(--br-14xl);
+  width: 540px;
+  height: 350px;
+  object-fit: cover;
+}
+.balanced-diet-image {
+  align-self: stretch;
+  height: 1085px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-top: -1158px;
+}
+.diet-question-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 1239px;
+  max-width: 100%;
+}
+.image-3-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 373.5px);
+  border-radius: var(--br-16xl);
+  width: 701px;
+  height: 590px;
+  object-fit: cover;
+}
+.frame19 {
+  position: absolute;
+  top: 1200px;
+  left: 256px;
+  width: 795px;
+  height: 597px;
+  overflow: hidden;
+}
+.diet-info-frames {
+  width: 1259px;
+  height: 1817px;
+  position: relative;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--headline);
+}
+@media screen and (max-width: 450px) {
+  .what-is-a-container {
+    font-size: var(--font-size-base);
+  }
+}

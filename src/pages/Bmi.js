@@ -1,5 +1,5 @@
 import { useState } from 'react';
-
+import "./Bmi.css";
 const Bmi =()=>{
       const [weight, setWeight] = useState('');
       const [height, setHeight] = useState('');
@@ -53,7 +53,7 @@ const Bmi =()=>{
     
       return(
         <div className="app">
-          <h1>BMI Calculator</h1>
+          <h1 color>BMI Calculator</h1>
           <span>Let's calculate your Body Mass Index. <br></br> Type the values below</span>
           
           <div className="area-input">
