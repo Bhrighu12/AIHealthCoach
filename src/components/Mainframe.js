@@ -83,7 +83,7 @@ const Mainframe = () => {
             <a href="http://localhost:5001/signup"><button className="sign-up18">
               <div className="log-in">{`GET STARTED`}</div>
             </button></a>
-            <a href="/"><button className="sign-up18">
+            <a href="/exercise"><button className="sign-up18">
               <div className="log-in">{`EXCERCISES`}</div>
             </button></a>
           </div>

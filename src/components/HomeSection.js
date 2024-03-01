@@ -12,7 +12,7 @@ const HomeSection = () => {
               <p className="about1"><a href="#about">About</a></p>
               <p className="bmi1"><a href="/bmi">BMI</a></p>
               <p className="diet-plan1"><a href="/diet">Diets</a></p>
-              <p className="bmi1"><a href="/bmi">Exercises</a></p>
+              <p className="bmi1"><a href="/exercise">Exercises</a></p>
             </div>
             <div className="contact-email-linkedin-container">
               <p className="contact1">Contact</p>

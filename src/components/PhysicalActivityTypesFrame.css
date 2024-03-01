@@ -1,0 +1,195 @@
+.blank-line63,
+.physical-activity-for,
+.preschool-aged-children-3-5 {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.active-play-through-a-variety,
+.blank-line64,
+.blank-line65,
+.physical-activity-every-day {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.children-and-adolescents {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.a-variety-of-enjoyable,
+.as-part-of,
+.mins-1-hour-or {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.vigorous-activity-such-as {
+  letter-spacing: 0.02em;
+}
+.vigorous-activity-such-as-runn1 {
+  margin-bottom: 0;
+}
+.activity-that-strengthens-musc1 {
+  letter-spacing: 0.02em;
+}
+.activity-that-strengthens-musc {
+  margin-bottom: 0;
+}
+.activity-that-strengthens-bone1 {
+  letter-spacing: 0.02em;
+}
+.activity-that-strengthens-bone {
+  margin-bottom: 0;
+}
+.vigorous-activity-such-as-runn {
+  margin: 0;
+  padding-left: var(--padding-13xl);
+}
+.adults-18-64-years,
+.blank-line66 {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.aim-for-the,
+.at-least-150-minutes,
+.at-least-2-days,
+.blank-line67,
+.p1 {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.blank-line68,
+.older-adults-65 {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.activities-to-improve-balance,
+.aim-for-the1,
+.at-least-150-minutes1,
+.at-least-2-days1,
+.p2 {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.adults-with-chronic,
+.blank-line69 {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.and,
+.be-as-active,
+.blank-line70,
+.get-at-least-150,
+.get-at-least-2,
+.if-you-are1,
+.of-moderate-intensity-aerobic,
+.that-include-all {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.blank-line71,
+.pregnant-and-postpartum {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.during-pregnancy-and,
+.get-at-least-1501,
+.of-moderate-intensity,
+.remember-some-physical {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.physical-activity-for-container {
+  height: 1512px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.pa-age-group-icons-01-1 {
+  width: 149.3px;
+  height: 150px;
+  position: relative;
+  border-radius: var(--br-181xl);
+  object-fit: cover;
+}
+.icon-disabililty-lg-medium-1,
+.pa-age-group-icons-02-1,
+.pa-age-group-icons-03-1,
+.pa-age-group-icons-04-1 {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  object-fit: cover;
+}
+.disabled-group-icon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) var(--padding-xl) 0;
+  gap: 81px 0;
+}
+.icon-pregnant-woman-large-medi {
+  width: 147px;
+  height: 150px;
+  position: relative;
+  object-fit: cover;
+}
+.iconpregnantwomanlargemedium-f,
+.pregnancy-icon {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 81px 0;
+}
+.iconpregnantwomanlargemedium-f {
+  align-items: center;
+  gap: 112px 0;
+}
+.iconpregnantwomanlargemedium-f-wrapper {
+  width: 151px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  margin-left: -151px;
+}
+.physical-activity-types-frame {
+  width: 1120px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--headline);
+}
+@media screen and (max-width: 450px) {
+  .physical-activity-for-container {
+    font-size: var(--font-size-lgi);
+  }
+}

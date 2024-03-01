@@ -8,6 +8,7 @@ import {
 import Desktop from "./pages/Desktop";
 import Bmi from "./pages/Bmi";
 import DietPage from "./pages/DietPage";
+import Exercises from "./pages/Exercises";
 
 function App() {
   const action = useNavigationType();
@@ -49,7 +50,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Desktop />} />
       <Route path="/diet" element={<DietPage/>} />
-      {/* <Route path="/exercise" element={<Excercise />} /> */}
+      <Route path="/exercise" element={<Exercises />} />
       <Route path="/bmi" element={<Bmi />} />
       
     </Routes>

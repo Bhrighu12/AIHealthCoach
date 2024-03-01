@@ -1,0 +1,517 @@
+.all-about-exercise {
+  margin: 0;
+  width: 628px;
+  position: relative;
+  font-size: inherit;
+  text-decoration: underline;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.benefits-of-regular {
+  margin: 0;
+  font-size: var(--headline-size);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line {
+  margin: 0;
+  font-size: 27px;
+  font-family: var(--font-inter);
+}
+.exercise-controls-weight {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.exercise-can-help,
+.regular-trips-to {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.exercise-combats-health {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.regular-exercise-helps {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.stroke1 {
+  letter-spacing: 0.02em;
+}
+.stroke {
+  margin-bottom: 0;
+}
+.metabolic-syndrome1 {
+  letter-spacing: 0.02em;
+}
+.metabolic-syndrome {
+  margin-bottom: 0;
+}
+.high-blood-pressure1 {
+  letter-spacing: 0.02em;
+}
+.high-blood-pressure {
+  margin-bottom: 0;
+}
+.type-2-diabetes1 {
+  letter-spacing: 0.02em;
+}
+.type-2-diabetes {
+  margin-bottom: 0;
+}
+.depression1 {
+  letter-spacing: 0.02em;
+}
+.depression {
+  margin-bottom: 0;
+}
+.anxiety1 {
+  letter-spacing: 0.02em;
+}
+.anxiety {
+  margin-bottom: 0;
+}
+.many-types-of {
+  letter-spacing: 0.02em;
+}
+.many-types-of-cancer {
+  margin-bottom: 0;
+}
+.arthritis1 {
+  letter-spacing: 0.02em;
+}
+.arthritis {
+  margin-bottom: 0;
+}
+.falls1 {
+  letter-spacing: 0.02em;
+}
+.falls {
+  margin-bottom: 0;
+}
+.stroke-metabolic-syndrome-hi {
+  margin: 0;
+  padding-left: var(--padding-13xl);
+}
+.it-also-can {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.exercise-improves-mood {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.need-an-emotional,
+.you-also-may {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.exercise-boosts-energy {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.exercise-sends-oxygen,
+.winded-by-grocery {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.exercise-promotes-better {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.struggling-to-snooze {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.exercise-puts-the {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.but-theres-even,
+.do-you-feel {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.exercise-can-be {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.exercise-and-physical {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.benefits-of-regular-container {
+  height: 1536px;
+  width: 1105px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.best-exercises-rectangle {
+  flex-direction: row;
+  padding: 0 0 0 16px;
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+}
+.best-exercises-rectangle,
+.exercise-info-frame,
+.how-to-exercise {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.how-to-exercise {
+  flex-direction: column;
+  gap: 35px 0;
+}
+.exercise-info-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) var(--padding-31xl) 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-36xl);
+  color: var(--color-white);
+  font-family: var(--headline);
+}
+.how-much-exercise {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line1,
+.blank-line2,
+.if-you-are,
+.strenuous-exercise-for {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.best-exercises-to-lower-bmi1 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.best-exercises-to-lower-bmi {
+  margin: 0;
+  font-size: var(--headline-size);
+}
+.blank-line4 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line3 {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+}
+.blank-line6 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line5 {
+  margin: 0;
+}
+.blank-line8 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line7 {
+  margin: 0;
+}
+.blank-line10 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line9 {
+  margin: 0;
+}
+.blank-line12 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line11 {
+  margin: 0;
+}
+.blank-line14 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line13 {
+  margin: 0;
+}
+.blank-line16 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line15 {
+  margin: 0;
+}
+.blank-line18 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line17 {
+  margin: 0;
+}
+.blank-line20 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line19 {
+  margin: 0;
+}
+.blank-line22 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line21 {
+  margin: 0;
+}
+.blank-line24 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line23 {
+  margin: 0;
+}
+.blank-line26 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.blank-line25 {
+  margin: 0;
+}
+.cycling1 {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.cycling {
+  margin: 0;
+}
+.a-well-known-exercise {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.brisk-walking1 {
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--headline);
+}
+.span {
+  letter-spacing: 0.02em;
+}
+.brisk-walking {
+  margin: 0;
+}
+.beginners-who-are {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.running1 {
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--headline);
+}
+.span1 {
+  letter-spacing: 0.02em;
+}
+.running {
+  margin: 0;
+}
+.running-and-jogging {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.hiit1 {
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--headline);
+}
+.span2 {
+  letter-spacing: 0.02em;
+}
+.hiit {
+  margin: 0;
+}
+.interval-training-often {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.weight-lifting1 {
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--headline);
+}
+.span3 {
+  letter-spacing: 0.02em;
+}
+.weight-lifting {
+  margin: 0;
+}
+.lifting-weights-is {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.swimming {
+  margin: 0;
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.swimming-is-a {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.yoga1 {
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--headline);
+}
+.span4 {
+  letter-spacing: 0.02em;
+}
+.yoga {
+  margin: 0;
+}
+.a-popular-type,
+.zumba {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.zumba {
+  font-size: var(--font-size-15xl);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.no-one-said {
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+.how-much-exercise-container {
+  width: 1106px;
+  height: 2057px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.best-exercises-to-lower-bmi-1-icon {
+  width: 745px;
+  height: 478px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -1717px;
+}
+.exercises,
+.p-agegroupicons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.p-agegroupicons-container {
+  min-height: 2057px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--headline);
+}
+.exercises {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  overflow: hidden;
+  padding: var(--padding-lgi) var(--padding-2xl) 65px var(--padding-xl);
+  box-sizing: border-box;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .exercise-info-frame {
+    padding-bottom: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .all-about-exercise {
+    font-size: var(--font-size-25xl);
+  }
+  .exercise-info-frame {
+    padding-bottom: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .how-to-exercise {
+    gap: 35px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .all-about-exercise {
+    font-size: var(--font-size-14xl);
+  }
+  .benefits-of-regular-container {
+    font-size: var(--font-size-lgi);
+  }
+  .exercise-info-frame {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .how-much-exercise-container {
+    font-size: var(--font-size-lgi);
+  }
+}
